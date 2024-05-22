@@ -1,0 +1,30 @@
+body {
+	margin:20px;
+	font-family: Verdana;
+
+
+}
+img{
+	width: 150px;
+	margin-left: 8px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.main{
+	display:flex;
+	background: #ddebf8;
+	justify-content: space-around;
+	margin-left: auto;
+	margin-right:auto;
+	width:450px;
+	border-bottom: 4px solid #d8cefe;
+
+	
+}
+.intro{
+	color:#2b2839;
+	margin-right:5px;
+}
+.center{
+	text-align: center;
+}
